@@ -1,0 +1,2 @@
+# moduleFederationApp
+Module Federation Example
